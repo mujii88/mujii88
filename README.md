@@ -1,26 +1,199 @@
-<h1 align="center">Hi 👋, I'm Mujtaba Ahmed</h1>
-<h3 align="center">A Backend Software Engineer specializing in scalable systems and AI tooling.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Catalyst, an open-source AI agent orchestration framework natively in Go.**
+```
+███╗   ███╗██╗   ██╗     ██╗████████╗ █████╗ ██████╗  █████╗
+████╗ ████║██║   ██║     ██║╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗
+██╔████╔██║██║   ██║     ██║   ██║   ███████║██████╔╝███████║
+██║╚██╔╝██║██║   ██║██   ██║   ██║   ██╔══██║██╔══██╗██╔══██║
+██║ ╚═╝ ██║╚██████╔╝╚█████╔╝   ██║   ██║  ██║██████╔╝██║  ██║
+╚═╝     ╚═╝ ╚═════╝  ╚════╝    ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
+```
 
-- 🌱 I’m currently learning **Advanced System Design and large-scale distributed architectures.**
+### Software & AI Engineer · Backend · Distributed Systems · Linux
+#### Building things that are fast, resilient, and actually useful.
 
-- 👯 I’m looking to collaborate on **Complex backend engineering projects and open-source AI tooling.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mujtaba-ahmed-488ba7280)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mujtabakhan1036k@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/)
+![Profile Views](https://komarev.com/ghpvc/?username=mujii88&color=0e75b6&style=flat)
 
-- 💬 Ask me about **Go, Python, C++, FastAPI,Linux and Software Defined Radio (SDR).**
+</div>
 
-- 📫 How to reach me **mujtabakhan1036k@gmail.com**
+---
 
-- ⚡ Fun fact **I'm deeply into algorithmic problem-solving and have cracked 700+ competitive programming challenges.**
+## `$ whoami`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/mujtaba-ahmed-488ba7280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mujtaba-ahmed-488ba7280" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mujii1036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mujii1036" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@mujtabakhycl6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@mujtabakhycl6" height="30" width="40" /></a>
-</p>
+```python
+mujtaba = {
+    "name"        : "Mujtaba Ahmed",
+    "location"    : "Rawalpindi, Pakistan 🇵🇰",
+    "education"   : "B.E. Electrical Engineering @ NUST (2026)",
+    "focus"       : ["Backend Systems", "AI Infrastructure", "Distributed Systems"],
+    "languages"   : ["Python", "Go", "C++", "JavaScript", "Bash"],
+    "daily_driver": "Ubuntu Linux",
+    "leetcode"    : "700+ problems solved (Medium/Hard)",
+    "currently"   : "Building in public. Open to backend & AI infra roles.",
+}
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujii88&show_icons=true&locale=en&layout=compact" alt="mujii88" /></p>
+## ⚡ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Backend & Infrastructure**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 InstantRAG
+**RAG-as-a-Service Platform**
+
+Deploy context-aware knowledge bots from raw PDFs — no custom backend needed. Modular engine with 5–10s query response time via vector indexing and embedding cache management.
+
+`Python` `FastAPI` `Pinecone` `LLMs` `Embeddings`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 VIGIL
+**Real-Time Global Intelligence Dashboard**
+
+Live 3D globe visualising 400+ submarine internet cables and global news events. Built with Go microservices, WebSockets, and WebGL — optimised for high-throughput data at scale.
+
+`Go` `Python` `FastAPI` `Three.js` `WebGL` `PostGIS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Transformer from Scratch
+**Attention Is All You Need — Rebuilt**
+
+Complete Transformer architecture using only PyTorch primitives. No HuggingFace, no shortcuts. Multi-head self-attention, positional encoding, encoder-decoder stacks — all from first principles.
+
+`Python` `PyTorch` `Deep Learning`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Distributed Localisation (TDOA)
+**Wireless Signal Source Localisation**
+
+Time Difference of Arrival algorithm for precise coordinate estimation across distributed receiver nodes. Chan's Algorithm + Gauss-Newton refinement, validated on simulated noise profiles.
+
+`Python` `Signal Processing` `Numerical Methods`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mujii88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujii88&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mujii88&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mujii1036?theme=dark&font=Karma&ext=activity&hide_border=true)
+
+> **700+ problems solved** · Medium/Hard focus · Data Structures, Algorithms, System Design
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujii88&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 💼 Experience
+
+```
+Rohde & Schwarz — Software Engineering Intern          Jun 2025 – Aug 2025
+├── Embedded software validation across 3 production platforms
+├── Hardware-software integration debugging (Linux-based systems)
+└── Back-end logic refinement for mobile network benchmarking tools
+```
+
+---
+
+## 🎓 Education
+
+```
+National University of Sciences and Technology (NUST)  2022 – 2026
+├── B.E. Electrical Engineering
+├── CGPA: 3.51 / 4.0
+└── Islamabad, Pakistan
+```
+
+---
+
+<div align="center">
+
+### Let's build something serious.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mujtaba-ahmed-488ba7280)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujtabakhan1036k@gmail.com)
+
+*"The best way to predict the future is to build it."*
+
+</div>
