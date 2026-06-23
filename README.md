@@ -76,50 +76,45 @@ mujtaba = {
 ---
 
 ## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 InstantRAG
+**🔍 InstantRAG**
 **RAG-as-a-Service Platform**
 
 Deploy context-aware knowledge bots from raw PDFs — no custom backend needed. Modular engine with 5–10s query response time via vector indexing and embedding cache management.
 
 `Python` `FastAPI` `Pinecone` `LLMs` `Embeddings`
-
 </td>
 <td width="50%" valign="top">
 
-### 🌐 VIGIL
+**🌐 VIGIL**
 **Real-Time Global Intelligence Dashboard**
 
 Live 3D globe visualising 400+ submarine internet cables and global news events. Built with Go microservices, WebSockets, and WebGL — optimised for high-throughput data at scale.
 
 `Go` `Python` `FastAPI` `Three.js` `WebGL` `PostGIS`
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Transformer from Scratch
+**🧠 Transformer from Scratch**
 **Attention Is All You Need — Rebuilt**
 
 Complete Transformer architecture using only PyTorch primitives. No HuggingFace, no shortcuts. Multi-head self-attention, positional encoding, encoder-decoder stacks — all from first principles.
 
 `Python` `PyTorch` `Deep Learning`
-
 </td>
 <td width="50%" valign="top">
 
-### 📡 Distributed Localisation (TDOA)
+**📡 Distributed Localisation (TDOA)**
 **Wireless Signal Source Localisation**
 
 Time Difference of Arrival algorithm for precise coordinate estimation across distributed receiver nodes. Chan's Algorithm + Gauss-Newton refinement, validated on simulated noise profiles.
 
 `Python` `Signal Processing` `Numerical Methods`
-
 </td>
 </tr>
 </table>
