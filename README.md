@@ -139,10 +139,9 @@ Time Difference of Arrival algorithm for precise coordinate estimation across di
 ---
 
 ## 🏆 Competitive Programming
-
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mujii1036?theme=dark&font=Karma&ext=activity&hide_border=true)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mujii1036?theme=dark&font=Karma&ext=activity&hide_border=true)](https://leetcode.com/u/mujii1036/)
 
 > **700+ problems solved** · Medium/Hard focus · Data Structures, Algorithms, System Design
 
