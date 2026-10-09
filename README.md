@@ -21,7 +21,7 @@ mujtaba = {
     "location"    : "Rawalpindi, Pakistan 🇵🇰",
     "education"   : "B.E. Electrical Engineering @ NUST (2026)",
     "focus"       : ["Backend Systems", "AI Infrastructure", "Distributed Systems"],
-    "languages"   : ["Python", "Go", "C++", "JavaScript", "Bash"],
+    "languages"   : ["Python", "Go", "C++", "JavaScript", "Bash" , "Verilog" , "System Verilog" , "TCL"],
     "daily_driver": "Ubuntu Linux",
     "leetcode"    : "700+ problems solved (Medium/Hard)",
     "currently"   : "Building in public. Open to backend & AI infra roles.",
