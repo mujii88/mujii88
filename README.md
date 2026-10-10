@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Mujtaba Ahmed - Software & Hardware Engineer"/>
+<img src="assets/header.svg" width="100%" alt="Mujtaba Ahmed - Co-Design Engineer: hardware and software"/>
 
 <p>
 <a href="https://linkedin.com/in/mujtaba-ahmed-488ba7280"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -8,8 +8,10 @@
 <a href="https://leetcode.com/u/mujii1036/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://mujii-portfolio-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Mujii_OS-be185d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <img src="https://img.shields.io/github/followers/mujii88?style=for-the-badge&logo=github&color=1f6feb" alt="Followers"/>
-<img src="https://komarev.com/ghpvc/?username=mujii88&color=8957e5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
+
+<br/>
+<img src="assets/stats-strip.svg" width="100%" alt="800+ LeetCode problems, 50+ repositories, 8 languages, NUST 2026"/>
 
 </div>
 
@@ -19,7 +21,7 @@
 ```python
 mujtaba = {
     "name"        : "Mujtaba Ahmed",
-    "role"        : "Software & Hardware Engineer",
+    "role"        : "Co-Design Engineer (hardware + software)",
     "location"    : "Rawalpindi, Pakistan 🇵🇰",
     "education"   : "B.E. Electrical Engineering @ NUST (2026)",
     "focus"       : ["Backend Systems", "AI Infrastructure", "Distributed Systems", "Digital Design"],
@@ -27,14 +29,20 @@ mujtaba = {
     "eda_tools"   : ["Cadence Genus", "Cadence Xcelium"],
     "daily_driver": "Ubuntu Linux",
     "leetcode"    : "800+ problems solved",
-    "currently"   : "Building in public. Open to backend & AI infra roles.",
+    "currently"   : "Building in public. Open to co-design, backend & AI infra roles.",
 }
 ```
 
+<img src="assets/title-codesign.svg" width="100%" alt="Co-design"/>
+
+<img src="assets/codesign.svg" width="100%" alt="Hardware: Verilog, SystemVerilog, Cadence Xcelium, Cadence Genus, TCL. Software: Go, Python, C++, Linux, FastAPI, PyTorch, RAG, agents, PostgreSQL, React."/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 <img src="assets/title-stack.svg" width="100%" alt="Tech stack"/>
 
-<img src="assets/stack.svg" width="100%" alt="Python, Go, C++, JavaScript, Bash, FastAPI, Docker, PostgreSQL, PostGIS, Linux, Ubuntu, WebSockets, Git, PyTorch, LLMs, RAG, Pinecone, React, Three.js, WebGL"/>
+<img src="assets/stack.svg" width="100%" alt="Python, Go, C++, JavaScript, TypeScript, Bash, Verilog, SystemVerilog, TCL, FastAPI, Docker, PostgreSQL, PostGIS, Linux, Ubuntu, WebSockets, Git, Cadence Genus, Cadence Xcelium, MATLAB, PyTorch, LangChain, Gemini, RAG, Pinecone, React, Next.js, Three.js, WebGL"/>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
 <img src="assets/title-projects.svg" width="100%" alt="Featured projects"/>
 
 <p align="center">
@@ -50,6 +58,7 @@ mujtaba = {
 
 <p align="center"><sub>52 public repositories · <a href="https://github.com/mujii88?tab=repositories"><b>browse them all →</b></a></sub></p>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
 <img src="assets/title-analytics.svg" width="100%" alt="GitHub analytics"/>
 
 <p align="center">
@@ -63,6 +72,7 @@ mujtaba = {
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mujii88&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/></a>
 </p>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
 <img src="assets/title-snake.svg" width="100%" alt="Contributions"/>
 
 <p align="center">
@@ -73,6 +83,7 @@ mujtaba = {
 </picture>
 </p>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
 <img src="assets/title-leetcode.svg" width="100%" alt="Competitive programming"/>
 
 <p align="center">
@@ -83,6 +94,7 @@ mujtaba = {
 <sub>Daily problem-of-the-day journal since June 9, 2026 → <a href="https://github.com/mujii88/LeetCode_POTD"><b>LeetCode_POTD</b></a></sub>
 </p>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
 <img src="assets/title-career.svg" width="100%" alt="Experience and education"/>
 
 <img src="assets/timeline.svg" width="100%" alt="Rohde & Schwarz - Software Engineering Intern (Jun-Aug 2025). NUST - B.E. Electrical Engineering (2022-2026), CGPA 3.51/4.0"/>
