@@ -96,7 +96,7 @@ mujtaba = {
 <img src="assets/divider.svg" width="100%" alt=""/>
 <img src="assets/title-career.svg" width="100%" alt="Experience and education"/>
 
-<img src="assets/timeline.svg" width="100%" alt="Rohde & Schwarz - Software Engineering Intern (Jun-Aug 2025). NUST - B.E. Electrical Engineering (2022-2026), CGPA 3.51/4.0"/>
+<img src="assets/timeline.svg" width="100%" alt="Rohde & Schwarz - Engineering Intern (Jun-Aug 2025). NUST - B.E. Electrical Engineering (2022-2026), CGPA 3.51/4.0"/>
 
 <br/>
 
