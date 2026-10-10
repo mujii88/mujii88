@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Mujtaba Ahmed - Software & AI Engineer"/>
+<img src="assets/header.svg" width="100%" alt="Mujtaba Ahmed - Software & Hardware Engineer"/>
 
 <p>
 <a href="https://linkedin.com/in/mujtaba-ahmed-488ba7280"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:mujtabakhan1036k@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://leetcode.com/u/mujii1036/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://mujii-portfolio-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Mujii_OS-be185d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <img src="https://img.shields.io/github/followers/mujii88?style=for-the-badge&logo=github&color=1f6feb" alt="Followers"/>
 <img src="https://komarev.com/ghpvc/?username=mujii88&color=8957e5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
@@ -18,12 +19,14 @@
 ```python
 mujtaba = {
     "name"        : "Mujtaba Ahmed",
+    "role"        : "Software & Hardware Engineer",
     "location"    : "Rawalpindi, Pakistan 🇵🇰",
     "education"   : "B.E. Electrical Engineering @ NUST (2026)",
-    "focus"       : ["Backend Systems", "AI Infrastructure", "Distributed Systems"],
-    "languages"   : ["Python", "Go", "C++", "JavaScript", "Bash" , "Verilog" , "System Verilog" , "TCL"],
+    "focus"       : ["Backend Systems", "AI Infrastructure", "Distributed Systems", "Digital Design"],
+    "languages"   : ["Python", "Go", "C++", "JavaScript", "Bash", "Verilog", "SystemVerilog", "TCL"],
+    "eda_tools"   : ["Cadence Genus", "Cadence Xcelium"],
     "daily_driver": "Ubuntu Linux",
-    "leetcode"    : "700+ problems solved (Medium/Hard)",
+    "leetcode"    : "800+ problems solved",
     "currently"   : "Building in public. Open to backend & AI infra roles.",
 }
 ```
@@ -35,11 +38,17 @@ mujtaba = {
 <img src="assets/title-projects.svg" width="100%" alt="Featured projects"/>
 
 <p align="center">
-<a href="https://github.com/mujii88/InstantRAG"><img src="assets/project-instantrag.svg" width="49%" alt="InstantRAG - RAG-as-a-Service Platform"/></a>
-<a href="https://github.com/mujii88/VIGIL"><img src="assets/project-vigil.svg" width="49%" alt="VIGIL - Real-Time Global Intelligence Dashboard"/></a>
-<a href="https://github.com/mujii88/transformer-from-scratch"><img src="assets/project-transformer.svg" width="49%" alt="Transformer from Scratch"/></a>
-<a href="https://github.com/mujii88/tdoa-localisation"><img src="assets/project-tdoa.svg" width="49%" alt="Distributed Localisation (TDOA)"/></a>
+<a href="https://github.com/mujii88/InstantRAG_Backend"><img src="assets/project-instantrag.svg" width="49%" alt="InstantRAG - RAG-as-a-Service Platform"/></a>
+<a href="https://github.com/mujii88/VIGIL_Backend"><img src="assets/project-vigil.svg" width="49%" alt="VIGIL - Real-Time Global Intelligence Dashboard"/></a>
+<a href="https://github.com/mujii88/Transformer_Architecture"><img src="assets/project-transformer.svg" width="49%" alt="Transformer from Scratch"/></a>
+<a href="https://github.com/mujii88/TDOA"><img src="assets/project-tdoa.svg" width="49%" alt="Distributed Localisation (TDOA)"/></a>
+<a href="https://github.com/mujii88/buildtop"><img src="assets/project-buildtop.svg" width="49%" alt="buildtop - Linux system profiler in Go"/></a>
+<a href="https://github.com/mujii88/Mujii_OS"><img src="assets/project-mujii-os.svg" width="49%" alt="Mujii OS - web-based operating system portfolio"/></a>
+<a href="https://github.com/mujii88/GoPy"><img src="assets/project-gopy.svg" width="49%" alt="GoPy - Termux Telegram music bot"/></a>
+<a href="https://github.com/mujii88/gocatalyst"><img src="assets/project-gocatalyst.svg" width="49%" alt="Catalyst - agentic AI framework in Go"/></a>
 </p>
+
+<p align="center"><sub>52 public repositories · <a href="https://github.com/mujii88?tab=repositories"><b>browse them all →</b></a></sub></p>
 
 <img src="assets/title-analytics.svg" width="100%" alt="GitHub analytics"/>
 
@@ -69,7 +78,9 @@ mujtaba = {
 <p align="center">
 <a href="https://leetcode.com/u/mujii1036/"><img src="https://leetcard.jacoblin.cool/mujii1036?theme=dark&font=Karma&ext=activity&hide_border=true" alt="LeetCode stats"/></a>
 <br/>
-<sub><b>700+ problems solved</b> · Medium/Hard focus · Data Structures, Algorithms, System Design</sub>
+<sub><b>800+ problems solved</b> · Medium/Hard focus · Data Structures, Algorithms, System Design</sub>
+<br/>
+<sub>Daily problem-of-the-day journal since June 9, 2026 → <a href="https://github.com/mujii88/LeetCode_POTD"><b>LeetCode_POTD</b></a></sub>
 </p>
 
 <img src="assets/title-career.svg" width="100%" alt="Experience and education"/>
