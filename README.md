@@ -53,7 +53,6 @@ mujtaba = {
 <a href="https://github.com/mujii88/buildtop"><img src="assets/project-buildtop.svg" width="49%" alt="buildtop - Linux system profiler in Go"/></a>
 <a href="https://github.com/mujii88/Mujii_OS"><img src="assets/project-mujii-os.svg" width="49%" alt="Mujii OS - web-based operating system portfolio"/></a>
 <a href="https://github.com/mujii88/GoPy"><img src="assets/project-gopy.svg" width="49%" alt="GoPy - Termux Telegram music bot"/></a>
-<a href="https://github.com/mujii88/gocatalyst"><img src="assets/project-gocatalyst.svg" width="49%" alt="Catalyst - agentic AI framework in Go"/></a>
 </p>
 
 <p align="center"><sub>52 public repositories · <a href="https://github.com/mujii88?tab=repositories"><b>browse them all →</b></a></sub></p>
