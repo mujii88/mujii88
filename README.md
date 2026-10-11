@@ -46,13 +46,13 @@ mujtaba = {
 <img src="assets/title-projects.svg" width="100%" alt="Featured projects"/>
 
 <p align="center">
-<a href="https://github.com/mujii88/InstantRAG_Backend"><img src="assets/project-instantrag.svg" width="49%" alt="InstantRAG - RAG-as-a-Service Platform"/></a>
-<a href="https://github.com/mujii88/VIGIL_Backend"><img src="assets/project-vigil.svg" width="49%" alt="VIGIL - Real-Time Global Intelligence Dashboard"/></a>
-<a href="https://github.com/mujii88/Transformer_Architecture"><img src="assets/project-transformer.svg" width="49%" alt="Transformer from Scratch"/></a>
-<a href="https://github.com/mujii88/TDOA"><img src="assets/project-tdoa.svg" width="49%" alt="Distributed Localisation (TDOA)"/></a>
-<a href="https://github.com/mujii88/buildtop"><img src="assets/project-buildtop.svg" width="49%" alt="buildtop - Linux system profiler in Go"/></a>
 <a href="https://github.com/mujii88/Mujii_OS"><img src="assets/project-mujii-os.svg" width="49%" alt="Mujii OS - web-based operating system portfolio"/></a>
+<a href="https://github.com/mujii88/TDOA"><img src="assets/project-tdoa.svg" width="49%" alt="Distributed Localisation (TDOA)"/></a>
+<a href="https://github.com/mujii88/VIGIL_Backend"><img src="assets/project-vigil.svg" width="49%" alt="VIGIL - Real-Time Global Intelligence Dashboard"/></a>
+<a href="https://github.com/mujii88/buildtop"><img src="assets/project-buildtop.svg" width="49%" alt="buildtop - Linux system profiler in Go"/></a>
 <a href="https://github.com/mujii88/GoPy"><img src="assets/project-gopy.svg" width="49%" alt="GoPy - Termux Telegram music bot"/></a>
+<a href="https://github.com/mujii88/InstantRAG_Backend"><img src="assets/project-instantrag.svg" width="49%" alt="InstantRAG - RAG-as-a-Service Platform"/></a>
+<a href="https://github.com/mujii88/Transformer_Architecture"><img src="assets/project-transformer.svg" width="49%" alt="Transformer from Scratch"/></a>
 </p>
 
 <p align="center"><sub>52 public repositories · <a href="https://github.com/mujii88?tab=repositories"><b>browse them all →</b></a></sub></p>
