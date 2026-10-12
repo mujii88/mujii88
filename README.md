@@ -24,10 +24,10 @@ mujtaba = {
     "role"        : "Co-Design Engineer (hardware + software)",
     "location"    : "Rawalpindi, Pakistan 🇵🇰",
     "education"   : "B.E. Electrical Engineering @ NUST (2026)",
-    "focus"       : ["Backend Systems", "AI Infrastructure", "Distributed Systems", "Digital Design"],
+    "focus"       : ["Backend Systems", "AI Infrastructure", "Distributed Systems", "Digital IC Design"],
     "languages"   : ["Python", "Go", "C++", "JavaScript", "Bash", "Verilog", "SystemVerilog", "TCL"],
     "eda_tools"   : ["Cadence Genus", "Cadence Xcelium"],
-    "daily_driver": "Ubuntu Linux",
+    "daily_driver": "Ubuntu Linux ",
     "leetcode"    : "800+ problems solved",
     "currently"   : "Building in public. Open to co-design, backend & AI infra roles.",
 }
