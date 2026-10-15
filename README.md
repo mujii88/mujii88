@@ -105,6 +105,6 @@ mujtaba = {
 <a href="https://linkedin.com/in/mujtaba-ahmed-488ba7280"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 <a href="mailto:mujtabakhan1036k@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
 
-<img src="assets/footer.svg" width="100%" alt="Let's build something serious."/>
+<img src="assets/footer.svg" width="100%" alt="Let's build something meaningful."/>
 
 </div>
