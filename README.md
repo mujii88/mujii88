@@ -28,7 +28,7 @@ mujtaba = {
     "languages"   : ["Python", "Go", "C++", "JavaScript", "Bash", "Verilog", "SystemVerilog", "TCL"],
     "eda_tools"   : ["Cadence Genus", "Cadence Xcelium"],
     "daily_driver": "Ubuntu Linux ",
-    "leetcode"    : "800+ problems solved",
+    "leetcode"    : "900+ problems solved",
     "currently"   : "Building in public. Open to co-design, backend & AI infra roles.",
 }
 ```
